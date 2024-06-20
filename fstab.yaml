@@ -1,2 +1,3 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/s/HelixProjects/EggJWJJRptNGtK2voKSGteQBZlA_h3jAheE9J1p2pOZ8KQ
+#  /: https://adobe.sharepoint.com/:f:/s/HelixProjects/EggJWJJRptNGtK2voKSGteQBZlA_h3jAheE9J1p2pOZ8KQ
+   /: https://adobe-my.sharepoint.com/:f:/r/personal/deckreyes_adobe_com/Documents/SummitForms
